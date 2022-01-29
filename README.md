@@ -71,6 +71,7 @@ Here are some ideas to get you started:
   
 ## 📈 Git Stats ...
 <p align="center">
-<a  href="https://github.com/ahlem-phantom/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br/><br/>
+<a  href="https://github.com/ahlem-phantom/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlem-phantom&layout=compact&theme=vision-friendly-dark)](https://github.com/ahlem-phantom/github-readme-stats)
+
 <a  href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=ahlem-phantom&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a><br/><br/>
 </p>
