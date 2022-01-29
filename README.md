@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div size='20px'> Hi! My name is Ahlem and I'm a computer science engineering student from Tunisia. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me </h2>
+<h2> 🙋‍ About Me </h2>
 
 - 🔭 I’m currently studying at <b>ESPRIT Higher School of Engineering</b>
   
