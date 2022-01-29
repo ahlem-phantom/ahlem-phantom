@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div size='20px'> Hi! My name is Ahlem and I'm a computer science engineering student from Tunisia. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> 🙋‍ About Me </h2>
+## 🙋‍ About Me 
 
 - 🔭 I’m currently studying at <b>ESPRIT Higher School of Engineering</b>
   
@@ -39,3 +39,9 @@ Here are some ideas to get you started:
 <a href="https://getbootstrap.com"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="45" height="45"/></a>
 <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
 </p>
+
+
+## 💬 Connect with me 
+<a href = 'https://www.linkedin.com/in/ahlem-laajili'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://github.com/ahlem-phantom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  
