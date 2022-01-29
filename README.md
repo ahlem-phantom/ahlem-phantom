@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I love <b>reading</b> and <b>gaming</b>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools ...
 <p align="center">
  <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="45" height="45"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/></a>
@@ -41,14 +41,14 @@ Here are some ideas to get you started:
 </p>
 
 
-## 💬 Connect with me 
+## 💬 Connect with me ...
 <p align="center">
 <a href = 'https://www.linkedin.com/in/ahlem-laajili'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/ahlem-phantom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   </p>
   
-## 📈 Git Stats
+## 📈 Git Stats ...
 <p align="center">
-  <a  href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=ahlem-phantom&theme=tokyonight" /></a><br/><br/>
 <a  href="https://github.com/ahlem-phantom/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br/><br/>
+<a  href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=ahlem-phantom&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a><br/><br/>
 </p>
