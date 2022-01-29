@@ -49,6 +49,6 @@ Here are some ideas to get you started:
   
 ## 📈 Git Stats
 <p align="center">
-   [![Badiaa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=badi3a&theme=tokyonight)](https://git.io/praveenscience)
+  <a  href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=ahlem-phantom&theme=tokyonight" /></a><br/><br/>
 <a  href="https://github.com/ahlem-phantom/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br/><br/>
 </p>
