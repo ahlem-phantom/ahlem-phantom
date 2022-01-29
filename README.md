@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 
 ## 💬 Connect with me 
+<p align="center">
 <a href = 'https://www.linkedin.com/in/ahlem-laajili'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/ahlem-phantom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  </p>
   
