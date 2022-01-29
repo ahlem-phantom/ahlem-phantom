@@ -37,16 +37,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love <b>reading</b> and <b>gaming</b>
 
 ## 🚀 Languages and Tools ...
-<p align="center">
- <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="45" height="45"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/></a>
-<a href="https://www.mysql.com"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="45" height="45"/></a>
-<a href="https://spring.io"><img src="https://img.icons8.com/color/50/000000/spring-logo.png" width="45" height="45" /></a>
-<a href="https://angular.io"><img src="https://img.icons8.com/color/48/000000/angularjs.png"  width="45" height="45"/></a>
-<a href="https://nodejs.org"><img src="https://img.icons8.com/color/48/000000/nodejs.png"  width="45" height="45"/></a>
-<a href="https://getbootstrap.com"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="45" height="45"/></a>
-<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
-</p>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 
 ## 💬 Connect with me ...
