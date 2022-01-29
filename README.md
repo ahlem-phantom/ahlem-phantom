@@ -1,4 +1,22 @@
-### Hello < Developers/ >! 👋
+
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px" /> <br>
+  <div id="badges">
+   <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=ahlem-laajili&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  </div>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <!--
 **ahlem-phantom/ahlem-phantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,23 +32,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=ahlem-laajili&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 ## 🙋‍ About Me 
+I'm a Software Enginner Student from Tunisia.
 
 - 🔭 I’m currently studying at <b>ESPRIT Higher School of Engineering</b>
-  
-- 🌱 I’m currently learning MERN Stack : <b>React, NodesJS and ExpressJs</b>
+
+- 🌱 I’m currently learning .NET and MERN Stack : <b>React, NodesJS and ExpressJs</b> 
   
 - 📫 How to reach me: <b>ahlem.laajili@esprit.tn</b>
 
@@ -62,13 +71,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
-
+<!--
 ## 💬 Connect with me ...
 <p align="center">
 <a href = 'https://www.linkedin.com/in/ahlem-laajili'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/ahlem-phantom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   </p>
-  
+  -->
 ## 📈 Git Stats ...
 <p align="center">
 <a  href="https://github.com/ahlem-phantom/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
