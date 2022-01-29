@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 <a href = 'https://github.com/ahlem-phantom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   </p>
   
+## 📈 Git Stats
+<a  href="https://github.com/ahlem-phantom/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br/><br/>
