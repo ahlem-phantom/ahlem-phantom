@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px" /> <br>
   <div id="badges">
-   <a href="your-linkedin-URL">
+   <a href="https://www.linkedin.com/in/ahlem-laajili/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=ahlem-laajili&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
