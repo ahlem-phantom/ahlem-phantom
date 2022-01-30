@@ -46,7 +46,7 @@ I'm a Software Enginner Student from Tunisia.
 
 - 🌱 I’m currently learning .NET and MERN Stack : <b>React, NodesJS and ExpressJs</b> 
   
-- 📫 How to reach me: <b>ahlem.laajili@esprit.tn</b>
+- 📫 How to reach me: <b>ahlem.laajili@esprit.tn or ahlem.laajili@ieee.org </b>
 
 - ⚡ Fun fact: I love <b>reading</b> and <b>gaming</b>
 
