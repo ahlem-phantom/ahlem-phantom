@@ -75,6 +75,12 @@ I'm a Software Enginner Student from Tunisia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
+<!--
+## 👨‍💻 Technical Skills & Expertise
+ - Development of Web Applications and Desktop Applications
+ - Implementation of Open Srouce Solutions mainly using Centos or any other Linux Distribution
+-->
+
 
 <!--
 ## 💬 Connect with me ...
