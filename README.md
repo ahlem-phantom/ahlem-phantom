@@ -18,8 +18,15 @@
   </div>
   hey there, I'm ahlem 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ 
 </h1>
+<div align="center">
+ You have finally discovered my Github profile. <br>
+Please feel free to clone projects or ask me anything if you think something could be better. <br>
 
+<i>Happy Coding!</i> 😊
+
+</div> 
 
 
 <!--
