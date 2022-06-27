@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
     <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/ahlem-phantom.svg?style=for-the-badge&logo=appveyor">
   </div>
   hey there, I'm ahlem 
 
@@ -97,6 +98,8 @@ I'm a Software Enginner Student from Tunisia.
 <a href = 'https://www.linkedin.com/in/ahlem-laajili'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/ahlem-phantom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   </p>
+  
+  https://img.shields.io/github/followers/Naereen.svg?style=for-the-badge&logo=appveyor
   -->
 ## 📈 Git Stats ...
 <p align="center">
