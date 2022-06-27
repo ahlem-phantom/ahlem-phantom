@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
   </div>
   hey there, I'm ahlem 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
  
 </h1>
 <div align="center">
@@ -78,7 +78,11 @@ I'm a Software Enginner Student from Tunisia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons//symfony/symfony-original-wordmark.svg" title="Symfony" alt="Symfony" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="flask" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="50" height="50"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="" alt="express" width="50" height="50"/>
+
 </div>
 <!--
 ## 👨‍💻 Technical Skills & Expertise
