@@ -103,8 +103,19 @@ I'm a Software Enginner Student from Tunisia.
   -->
 ## 📈 Git Stats ...
 <p align="center">
-<a  href="https://github.com/ahlem-phantom/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a  href="https://github.com/ahlem-phantom/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlem-phantom&layout=compact&theme=vision-friendly-dark" /></a> 
-  
+<a  href="https://github.com/ahlem-phantom/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&langs_count=20&show_icons=true&locale=en&layout=compact" alt="ahlem-phantom" />
+</a> 
+<a  href="https://github.com/ahlem-phantom/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&locale=en" alt="ahlem-phantom" />
+</a> 
+<a  href="https://github.com/ahlem-phantom/github-readme-stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&" alt="ahlem-phantom" />
+</a> 
+<a  href="https://github.com/ahlem-phantom/github-readme-stats">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahlem-phantom&theme=github" />
+</a> 
+
+
 <a  href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=ahlem-phantom&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a><br/><br/>
 </p>
