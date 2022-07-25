@@ -112,9 +112,6 @@ I'm a Software Enginner Student from Tunisia.
 <a  href="https://github.com/ahlem-phantom/github-readme-stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&" alt="ahlem-phantom" />
 </a> 
-<a  href="https://github.com/ahlem-phantom/github-readme-stats">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahlem-phantom&theme=github" />
-</a> 
 
 
 <a  href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=ahlem-phantom&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a><br/><br/>
