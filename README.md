@@ -50,7 +50,7 @@ I'm a Software Enginner Student from Tunisia.
 
 - 🔭 I’m currently studying at <b>ESPRIT Higher School of Engineering</b>
 
-- 🌱 I’m currently learning .NET, Django and MERN Stack : <b>React, NodesJS and ExpressJs</b> 
+- 🌱 I’m currently working on <b>Transportation Management System Project based on microservice architecture</b> 
   
 - 📫 How to reach me: <b>ahlem.laajili@esprit.tn </b>
 
