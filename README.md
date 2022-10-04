@@ -23,7 +23,7 @@
 </h1>
 <div align="center">
 
- You have finally discovered my Github profile. <br>
+ You have finally found my Github profile. <br>
 Please feel free to clone projects or ask me anything if you think something could be better. <br>
 
 <i>Happy Coding!</i> 😊
