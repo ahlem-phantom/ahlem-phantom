@@ -57,7 +57,7 @@ I'm a Software Enginner Student from Tunisia.
   
 - 📫 How to reach me: <b>ahlem.laajili@esprit.tn </b>
 
-- ⚡ Fun fact: I love <b>reading</b> and <b>gaming</b>
+- ⚡ Fun fact: I love <b>reading</b>,<b>gaming</b> and content creation.
 
 ## 🚀 Languages and Tools ...
 <div align="center">
