@@ -12,9 +12,6 @@
   <a href="https://www.instagram.com/ahlemmajili">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-     <a href="https://www.youtube.com/watch?v=Kxqa83Us1m4">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
     <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/ahlem-phantom.svg?style=for-the-badge&logo=appveyor">
   </div>
