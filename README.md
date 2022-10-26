@@ -128,15 +128,27 @@ Here are some ideas to get you started:
   https://img.shields.io/github/followers/Naereen.svg?style=for-the-badge&logo=appveyor
   -->
 ## 📈 Git Stats ...
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&langs_count=20&show_icons=true&locale=en&layout=compact" alt="ahlem-phantom" /></p>
+  
+  <div align="center">
+  <a href="https://github.com/ahlem-phantom">
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&locale=en"/>
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&langs_count=20&show_icons=true&locale=en&layout=compact"/> 
+</div>
+    <br/> <br/>
+   <div align="center">
+  <a href="https://github.com/ahlem-phantom">
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom"/>
+  
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=ahlem-phantom&bc=ebebeb&ic=0E8AD9"/> 
+</div>
+         <br/> <br/>
+ <div align="center">
+ <a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=ahlem-phantom&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+</div>
+      
+     
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&locale=en" alt="valentinefernandes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes" alt="ahlem-phantom" /></p>
-<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=ahlem-phantom&bc=ebebeb&ic=0E8AD9" alt="ahlem-phantom" /></p>
-
-
-<a  href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=ahlem-phantom&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a><br/><br/>
-</p>
