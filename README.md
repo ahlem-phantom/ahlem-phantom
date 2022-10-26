@@ -49,16 +49,30 @@ Here are some ideas to get you started:
 
 
 ## 🙋‍ About Me 
-I'm a Software Enginner Student from Tunisia.
-
-- 🔭 I’m currently studying at <b>ESPRIT Higher School of Engineering</b>
-
-- 🌱 I’m currently working on <b>Transportation Management System Project based on microservice architecture</b> 
+- 🎓 Studying Computer Science engineering at <b>ESPRIT Higher School of Engineering</b>
+  
+- 💼 Currently working on <b>Transportation Management System Project based on microservice architecture</b>.
+    
+- 🤔 Exploring new technologies and developing software solutions.
+    
+- ✍️ Playing games and reading books.
   
 - 📫 How to reach me: <b>ahlem.laajili@esprit.tn </b>
 
-- ⚡ Fun fact: I love <b>reading</b>,<b>gaming</b> and content creation.
-
+  
+## 🛠 Tech Stack
+- 💻  C | C++ | C# | Java | Python
+  
+- 🌐  HTML | CSS | JavaScript | Bootstrap | jQuery | PHP
+  
+- 🖥️  React | Flask | AngularJS | SpringBoot | Laravel | Symfony | NodeJS | .NET | Django
+  
+- 🛢   MySQL | MongoDB | PostgreSQL | Oracle
+  
+- 🔧  Visual Studio Code | Eclipse | Git | Jupyther Notebook | Intellij IDEA | PyCharm 
+  
+- 🖥  Canva | Figma | Balsamiq | NextAPP
+  
 ## 🚀 Languages and Tools ...
 <div align="center">
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="50" height="50"/></code>
