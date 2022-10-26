@@ -55,6 +55,8 @@ Here are some ideas to get you started:
     
 - 🤔 Exploring new technologies and developing software solutions.
     
+- 💜 I am looking forward to learning more about deep learning and training models. Some of my far future projects are an AI Healthcare Assistant that provides face recognition and an Xray Scanner that generates scan results, a program that allocates orders to trucks dynamically e.t.c
+  
 - ✍️ Playing games and reading books.
   
 - 📫 How to reach me: <b>ahlem.laajili@esprit.tn </b>
