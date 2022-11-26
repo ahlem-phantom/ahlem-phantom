@@ -46,9 +46,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-## 🙋‍ About Me 
+  ## 🙋‍ About Me 
 - 🎓 Studying Computer Science engineering at <b>ESPRIT Higher School of Engineering</b>
   
 - 💼 Currently working on <b>Transportation Management System Project based on microservice architecture</b>.
@@ -147,6 +145,9 @@ Here are some ideas to get you started:
   <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=ahlem-phantom&bc=ebebeb&ic=0E8AD9"/> 
 </div>
          <br/> <br/>
+     <p align="center">
+    <img width="450" src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&theme=monokai&row=2&column=3" alt="ahlem-phantom" />
+  </p>
  <div align="center">
  <a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=ahlem-phantom&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
 </div>
