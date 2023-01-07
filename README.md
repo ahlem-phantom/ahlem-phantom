@@ -148,9 +148,7 @@ Here are some ideas to get you started:
      <p align="center">
     <img width="450" src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&theme=monokai&row=2&column=3" alt="ahlem-phantom" />
   </p>
- <div align="center">
- <a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=ahlem-phantom&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-</div>
+
       
      
 
