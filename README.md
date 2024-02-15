@@ -9,9 +9,6 @@
   <a href="mailto:ahlem.laajili@esprit.tn">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.instagram.com/ahlemmajili">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
     <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/ahlem-phantom.svg?style=for-the-badge&logo=appveyor">
   </div>
@@ -48,9 +45,7 @@ Here are some ideas to get you started:
 
   ## 🙋‍ About Me 
 - 🎓 Studying Computer Science engineering at <b>ESPRIT Higher School of Engineering</b>
-  
-- 💼 Currently working on <b>Transportation Management System Project based on microservice architecture</b>.
-    
+      
 - 🤔 Exploring new technologies and developing software solutions.
     
 - 💜 I am looking forward to learning more about deep learning and training models. Some of my far future projects are an AI Healthcare Assistant that provides face recognition and an Xray Scanner that generates scan results, a program that allocates orders to trucks dynamically e.t.c
