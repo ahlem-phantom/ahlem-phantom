@@ -1,7 +1,7 @@
 
+![ahlem](https://github.com/user-attachments/assets/61fd7225-641a-4c34-b814-d33cd80850c0)
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px" /> <br>
   <div id="badges">
    <a href="https://www.linkedin.com/in/ahlem-laajili/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -12,20 +12,16 @@
     <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/ahlem-phantom.svg?style=for-the-badge&logo=appveyor">
   </div>
+<h3 align="center"> 😎 Full Stack Engineer | AI/ML | Python Dev | Data Science | NLP | Explorer </h3>
 
 <div>
-<br>
-   <a href="https://github.com/ahlem-phantom">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Ahlem;Full-Stack+Web+Developer" alt="ahlem-phantom" /></a>
+
 </h1>
 <div align="center">
-
- You have finally found my Github profile. <br>
-Please feel free to clone projects or ask me anything if you think something could be better. <br>
-
-<i>Happy Coding!</i> 😊
-
-</div> 
+    <p>
+      <h4><i> "Turning complex ideas into innovative solutions with a touch of magic 💫" — Ahlem </i></h4>
+    </p>
+</div>
 
 
 <!--
@@ -43,16 +39,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ## 🙋‍ About Me 
-- 🎓 Studying Computer Science engineering at <b>ESPRIT Higher School of Engineering</b>
-      
-- 🤔 Exploring new technologies and developing software solutions.
-    
-- 💜 I am looking forward to learning more about deep learning and training models. Some of my far future projects are an AI Healthcare Assistant that provides face recognition and an Xray Scanner that generates scan results, a program that allocates orders to trucks dynamically e.t.c
-  
-- ✍️ Love to play games and read books.
-  
-- 📫 How to reach me: <b>ahlem.laajili@esprit.tn </b>
+  ## 🤝‍ About Me 
+- 🎓 Alumnus of Computer Science Engineering from <b>ESPRIT Higher School of Engineering</b>  
+- 🌱 Exploring new technologies and developing software solutions.
+- 💜 Looking forward to exploring the complexities of <b>reinforcement learning</b> and <b>MLOps</b> as part of my journey in advanced AI.
+- 🔍 Recently developed an <b>AI-powered invoice recognition web application</b> that automates data processing and extraction from invoices with diverse layouts.
+- 🎮 Coding by day 🌞, gaming and reading by night 🌙.
+- 😎 Visit my portfolio site: **[ahlem-laajili-portfolio](ahlem-laajili.vercel.app)**
 
   
 ## 🛠 Tech Stack
