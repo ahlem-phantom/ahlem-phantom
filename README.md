@@ -37,30 +37,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-  ## 🤝‍ About Me 
-- 🎓 Alumnus of Computer Science Engineering from <b>ESPRIT Higher School of Engineering</b>  
-- 🌱 Exploring new technologies and developing software solutions.
-- 💜 Looking forward to exploring the complexities of <b>reinforcement learning</b> and <b>MLOps</b> as part of my journey in advanced AI.
-- 🔍 Recently developed an <b>AI-powered invoice recognition web application</b> that automates data processing and extraction from invoices with diverse layouts.
-- 🎮 Coding by day 🌞, gaming and reading by night 🌙.
-- 😎 Visit my portfolio site: **[ahlem-laajili-portfolio](https://ahlem-laajili.vercel.app)**
 
-  
-## 🛠 Tech Stack
-- 💻  C | C++ | C# | Java | Python
-  
-- 🌐  HTML | CSS | JavaScript | Bootstrap | jQuery | PHP
-  
-- 🖥️  React | Flask | AngularJS | SpringBoot | Laravel | Symfony | NodeJS | .NET | Django
-  
-- 🛢   MySQL | MongoDB | PostgreSQL | Oracle
-  
-- 🔧  Visual Studio Code | Eclipse | Git | Jupyther Notebook | Intellij IDEA | PyCharm 
-  
-- 🖥  Canva | Figma | Balsamiq | NextAPP
-  
+
 ## 🚀 Languages and Tools ...
 <div align="center">
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="50" height="50"/></code>
@@ -98,6 +77,31 @@ Here are some ideas to get you started:
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="JetBrains" alt="JetBrains" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/></code>
 </div>
+-->
+
+  ## 🤝‍ About Me 
+- 🎓 Alumnus of Computer Science Engineering from <b>ESPRIT Higher School of Engineering</b>  
+- 🌱 Exploring new technologies and developing software solutions.
+- 💜 Looking forward to exploring the complexities of <b>reinforcement learning</b> and <b>MLOps</b> as part of my journey in advanced AI.
+- 🔍 Recently developed an <b>AI-powered invoice recognition web application</b> that automates data processing and extraction from invoices with diverse layouts.
+- 🎮 Coding by day 🌞, gaming and reading by night 🌙.
+- 😎 Visit my portfolio site: **[ahlem-laajili-portfolio](https://ahlem-laajili.vercel.app)**
+
+  
+## 🛠 Tech Stack
+- 💻  C | C++ | C# | Java | Python
+  
+- 🌐  HTML | CSS | JavaScript | Bootstrap | jQuery | PHP
+  
+- 🖥️  React | Flask | AngularJS | SpringBoot | Laravel | Symfony | NodeJS | .NET | Django
+  
+- 🛢   MySQL | MongoDB | PostgreSQL | Oracle
+  
+- 🔧  Visual Studio Code | Eclipse | Git | Jupyther Notebook | Intellij IDEA | PyCharm 
+  
+- 🖥  Canva | Figma | Balsamiq | NextAPP
+  
+
 
 
 <!--
