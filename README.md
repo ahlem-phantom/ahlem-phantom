@@ -77,6 +77,12 @@ Here are some ideas to get you started:
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="JetBrains" alt="JetBrains" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/></code>
 </div>
+
+
+
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom"/>
+  
+  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=ahlem-phantom&bc=ebebeb&ic=0E8AD9"/> 
 -->
 
   ## 🤝‍ About Me 
@@ -119,24 +125,26 @@ Here are some ideas to get you started:
   
   https://img.shields.io/github/followers/Naereen.svg?style=for-the-badge&logo=appveyor
   -->
-## 📈 Git Stats ...
+
+## 📈 GitHub Analytics
+ 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=ahlem-phantom&theme=react" />
+
   
   <div align="center">
   <a href="https://github.com/ahlem-phantom">
   
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&locale=en"/>
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&langs_count=20&show_icons=true&locale=en&layout=compact"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&langs_count=20&show_icons=true&locale=en&layout=compact"/> </a>
 </div>
-    <br/> <br/>
+
    <div align="center">
   <a href="https://github.com/ahlem-phantom">
   
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom"/>
-  
-  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=ahlem-phantom&bc=ebebeb&ic=0E8AD9"/> 
+
 </div>
-         <br/> <br/>
+         <br/> 
      <p align="center">
     <img width="450" src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&theme=monokai&row=2&column=3" alt="ahlem-phantom" />
   </p>
