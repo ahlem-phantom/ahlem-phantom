@@ -128,13 +128,14 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Analytics
  
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=ahlem-phantom&theme=react" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&count_private=true&show_icons=true&theme=react" />  
+<img width="425" src="https://streak-stats.demolab.com/?user=ahlem-phantom&theme=react" />
 
   
   <div align="center">
   <a href="https://github.com/ahlem-phantom">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&locale=en"/>
+
   
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&langs_count=20&show_icons=true&locale=en&layout=compact"/> </a>
 </div>
