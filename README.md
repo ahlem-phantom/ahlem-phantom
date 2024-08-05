@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   
 
   
-## 🎓📚 Skills and Tools
+## ⚙️ Skills and Tools
 <div align="center">
   <table>
     <thead>
