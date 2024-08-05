@@ -100,7 +100,41 @@ Here are some ideas to get you started:
       <td align="center" width=110>C++</td>
     </tr>
   </table>
-
+  <table>
+    <thead>
+      <tr>
+        <th colspan="6"> Machine Learning & AI </th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> </td>
+      <tr align="center"> 
+        <td align="center" width=110>Pandas</td>
+        <td align="center" width=110>OpenCV</td>
+        <td align="center" width=110>Scikit-learn</td>
+        <td align="center" width=110>TensorFlow</td>
+        <td align="center" width=110>PyTorch</td>
+      </tr>
+    </tr>
+    <tr>
+      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
+      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"/> </td>
+      <td align="center" width=110> <img height="60" src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg"/> </td>
+      <td align="center" width=110> <img src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" alt="icon" width="65" height="65"/> </td>
+      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/> </td>
+      <tr align="center"> 
+        <td align="center" width=110>NumPy</td>
+        <td align="center" width=110>Matplotlib</td>
+        <td align="center" width=110>HuggingFace</td>
+        <td align="center" width=110>Gradio</td>
+        <td align="center" width=110>Jupyter</td>
+      </tr>
+    </tr>
+  </table>  
   <table>
     <thead>
       <tr>
@@ -124,7 +158,7 @@ Here are some ideas to get you started:
     <tr>
       <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/> </td>
-      <td align="center" width=110> <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"/> </td>
+      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg"/> </td>
       <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons//symfony/symfony-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> </td>
       <tr align="center"> 
