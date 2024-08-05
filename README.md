@@ -86,31 +86,18 @@ Here are some ideas to get you started:
       </tr>
     </thead>
     <tr>
+      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/python-icon.svg"/> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
     </tr>
     <tr> 
+      <td align="center" width=110>Python</td>
       <td align="center" width=110>Java</td>
       <td align="center" width=110>JavaScript</td>
       <td align="center" width=110>Typescript</td>
-      <td align="center" width=110>CSS</td>
-      <td align="center" width=110>HTML</td>
-    </tr>
-    <tr>
-      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
-      <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height="60" width="60" src="https://techstack-generator.vercel.app/csharp-icon.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/python-icon.svg"/> </td>
-    <tr> 
       <td align="center" width=110>C++</td>
-      <td align="center" width=110>MySQL</td>
-      <td align="center" width=110>C#</td>
-      <td align="center" width=110>MongoDB</td>
-      <td align="center" width=110>Python</td>
     </tr>
   </table>
 
