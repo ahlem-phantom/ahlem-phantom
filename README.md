@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 
   ## 🤝‍ About Me 
 - 🎓 Alumnus of Computer Science Engineering from <b>`ESPRIT Higher School of Engineering`</b>  
-- 🌱 Exploring new technologies and developing software solutions.
+- 🌱 Currently solving <b>`LeetCode challenges`</b> to improve my <b>`data structures`</b> and <b>`algorithms`</b> skills.
 - 💜 Looking forward to exploring the complexities of <b>`reinforcement learning`</b> and <b>`MLOps`</b> as part of my journey in advanced AI.
-- 🔍 Recently developed an <b>`AI-powered invoice recognition web application`</b> that automates data processing and extraction from invoices with diverse layouts.
+- 🔍 Recently developed an <b>`AI-powered invoice recognition system`</b> that automates data processing and extraction from invoices with diverse layouts.
 - 🎮 Coding by day 🌞, gaming and reading by night 🌙.
 - 😎 Visit my portfolio site: **[ahlem-laajili-portfolio](https://ahlem-laajili.vercel.app)**
 
