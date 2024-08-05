@@ -134,24 +134,16 @@ Here are some ideas to get you started:
 
   
   <div align="center">
-  <a href="https://github.com/ahlem-phantom">
-  
-
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&langs_count=20&show_icons=true&locale=en&layout=compact"/> </a>
+  <a href="https://github.com/ahlem-phantom">  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&langs_count=20&show_icons=true&locale=en&layout=compact"/> 
+  </a>
 </div>
 
-   <div align="center">
-  <a href="https://github.com/ahlem-phantom">
-  
-
-</div>
-         <br/> 
-     <p align="center">
-    <img width="450" src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&theme=monokai&row=2&column=3" alt="ahlem-phantom" />
-  </p>
+ 
+       
 
       
-     
+## 🏆 My GitHub Profile Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ahlem-phantom&theme=onestar&row=1&column=6&margin-w=40&margin-h=20)](https://github.com/ahlem-phantom)     
 
 
