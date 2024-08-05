@@ -100,15 +100,15 @@ Here are some ideas to get you started:
       <td align="center" width=110>HTML</td>
     </tr>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110> <img height="60" width="60" src="https://techstack-generator.vercel.app/csharp-icon.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg"/> </td>
-      <td align="center" width=110> <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/python-icon.svg"/> </td>
     <tr> 
-      <td align="center" width=110>PostgreSQL</td>
+      <td align="center" width=110>C++</td>
       <td align="center" width=110>MySQL</td>
-      <td align="center" width=110>OracleDB</td>
+      <td align="center" width=110>C#</td>
       <td align="center" width=110>MongoDB</td>
       <td align="center" width=110>Python</td>
     </tr>
@@ -148,7 +148,7 @@ Here are some ideas to get you started:
         <td align="center" width=110>.Net</td>
       </tr>
     </tr>
-  </table>
+  </table>  
   <table>
     <thead>
     <tr>
@@ -158,7 +158,7 @@ Here are some ideas to get you started:
     <tr>
       <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg"/> </td>
       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain-wordmark.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/docker-icon.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/> </td>
       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original-wordmark.svg"/> </td>
     </tr>
