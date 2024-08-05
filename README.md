@@ -20,6 +20,10 @@
 </h1>
 <div align="center">
     <p>
+      <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
+<img src="https://img.shields.io/badge/Hobby-Coding%2C%20Gaming-blue" />
+<img src="https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue" />
+<img src="https://img.shields.io/badge/Language-English%2C%20French-blue" />
       <h4><i> "Turning complex ideas into innovative solutions with a touch of magic 💫" — Ahlem </i></h4>
     </p>
 </div>
