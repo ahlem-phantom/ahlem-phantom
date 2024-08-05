@@ -7,8 +7,8 @@
    <a href="https://www.linkedin.com/in/ahlem-laajili/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ahlem.laajili@esprit.tn">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+ <a href="https://www.youtube.com/@ahlemphantom">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
     <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/ahlem-phantom.svg?style=for-the-badge&logo=appveyor">
