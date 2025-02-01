@@ -232,7 +232,7 @@ Here are some ideas to get you started:
 ## 📈 GitHub Analytics
  
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
-<img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&theme=react&layout=compa" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&theme=react&layout=compa" />
 
   
   <div align="center">
