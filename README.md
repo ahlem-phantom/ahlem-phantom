@@ -236,7 +236,7 @@ Here are some ideas to get you started:
   
   <div align="center">
     <img width="360" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
-<img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&theme=react&layout=compa" />
+<img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&theme=react&layout=compa" />
   <a href="https://github.com/ahlem-phantom">  
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
   </a>
