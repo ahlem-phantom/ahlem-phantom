@@ -124,7 +124,7 @@ Here are some ideas to get you started:
       <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"/> </td>
       <td align="center" width=110> <img height="60" src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg"/> </td>
-      <td align="center" width=110> <img src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" alt="icon" width="65" height="65"/> </td>
+      <td align="center" width=110> <img src="https://camo.githubusercontent.com/f05dd8f2dbcf21eac989f7a7c2cc6ebb4bbe3607e38a41d5e417c65378399a49/68747470733a2f2f67726164696f2e6170702f6173736574732f67726164696f2e737667" alt="icon" width="85" height="80"/> </td>
       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/> </td>
       <tr align="center"> 
         <td align="center" width=110>NumPy</td>
