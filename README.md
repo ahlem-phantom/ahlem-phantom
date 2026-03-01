@@ -89,7 +89,7 @@ class AIEngineer:
         self.current_role = {
             "company": "Flouci (FinTech)",
             "role": "Python Software Engineer",
-            "impact": "110K+ users, 15+ production migrations, PCI-DSS compliant systems"
+            "impact": "130K+ users, 15+ production migrations, PCI-DSS compliant systems"
         }
         
         self.achievements = [
@@ -142,7 +142,7 @@ print(me.philosophy())  # Let's build something extraordinary together.
 
 ```
 ┌─────────────────────────────────────┐
-│  FinTech APIs   │ 110K+ users       │
+│  FinTech APIs   │ 130K+ users       │
 │  DB Migrations  │ 15+ production    │
 │  Async Systems  │ Redis + Celery    │
 │  CI/CD          │ Jenkins + Docker  │
