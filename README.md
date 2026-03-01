@@ -1,252 +1,533 @@
-
-![ahlem](https://github.com/user-attachments/assets/61fd7225-641a-4c34-b814-d33cd80850c0)
-
-<h1 align="center">
-  <div id="badges">
-    <a href="https://ahlem-laajili.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/>
-   <a href="https://www.linkedin.com/in/ahlem-laajili/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
- <a href="https://www.youtube.com/@ahlemphantom">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-    <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/ahlem-phantom.svg?style=for-the-badge&logo=appveyor">
-  </div>
-<h3 align="center"> 😎 Full Stack Engineer | AI/ML | Python Dev | Data Science | NLP | Explorer </h3>
-
-<div>
-
-</h1>
-<div align="center">
-    <p>
-      <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
-<img src="https://img.shields.io/badge/Hobby-Coding%2C%20Gaming-blue" />
-<img src="https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue" />
-<img src="https://img.shields.io/badge/Language-English%2C%20French-blue" />
-      <h4><i> "Turning complex ideas into innovative solutions with a touch of magic 💫" — Ahlem </i></h4>
-    </p>
-</div>
-
-
-<!--
-**ahlem-phantom/ahlem-phantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## 🛠 Tech Stack
-- 💻  C | C++ | C# | Java | Python
-  
-- 🌐  HTML | CSS | JavaScript | Bootstrap | jQuery | PHP
-  
-- 🖥️  React | Flask | AngularJS | SpringBoot | Laravel | Symfony | NodeJS | .NET | Django
-  
-- 🛢   MySQL | MongoDB | PostgreSQL | Oracle
-  
-- 🔧  Visual Studio Code | Eclipse | Git | Jupyther Notebook | Intellij IDEA | PyCharm 
-  
-- 🖥  Canva | Figma | Balsamiq | NextAPP
-
-
-## 🚀 Languages and Tools ...
-
-
-
-
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom"/>
-  
-  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=ahlem-phantom&bc=ebebeb&ic=0E8AD9"/> 
+<!-- 
+  ╔═══════════════════════════════════════════════════════════════════════════╗
+  ║   🚀 AHLEM LAAJILI - AI/ML ENGINEER                                       ║
+  ║   Production AI Systems • 95.4% Accuracy • $40M+ Company Interest         ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
 -->
 
-  ## 🤝‍ About Me 
-- 🎓 Alumnus of Computer Science Engineering from <b>`ESPRIT Higher School of Engineering`</b>  
-- 🌱 Currently solving <b>`LeetCode challenges`</b> to improve my <b>`data structures`</b> and <b>`algorithms`</b> skills.
-- 💜 Looking forward to exploring the complexities of <b>`reinforcement learning`</b> and <b>`MLOps`</b> as part of my journey in advanced AI.
-- 🔍 Recently developed an <b>`AI-powered invoice recognition system`</b> that automates data processing and extraction from invoices with diverse layouts.
-- 🎮 Coding by day 🌞, gaming and reading by night 🌙.
-- 😎 Visit my portfolio site: **[ahlem-laajili-portfolio](https://ahlem-laajili.vercel.app)**
-
-  
-
-  
-## ⚙️ Skills and Tools
 <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th colspan="7">Languages</th>
-      </tr>
-    </thead>
-    <tr>
-      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/python-icon.svg"/> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
-    </tr>
-    <tr> 
-      <td align="center" width=110>Python</td>
-      <td align="center" width=110>Java</td>
-      <td align="center" width=110>JavaScript</td>
-      <td align="center" width=110>Typescript</td>
-      <td align="center" width=110>C++</td>
-    </tr>
-  </table>
-  <table>
-    <thead>
-      <tr>
-        <th colspan="6"> Machine Learning & AI </th>
-      </tr>
-    </thead>
-    <tr>
-      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> </td>
-      <tr align="center"> 
-        <td align="center" width=110>Pandas</td>
-        <td align="center" width=110>OpenCV</td>
-        <td align="center" width=110>Scikit-learn</td>
-        <td align="center" width=110>TensorFlow</td>
-        <td align="center" width=110>PyTorch</td>
-      </tr>
-    </tr>
-    <tr>
-      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"/> </td>
-      <td align="center" width=110> <img height="60" src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg"/> </td>
-      <td align="center" width=110> <img src="https://camo.githubusercontent.com/f05dd8f2dbcf21eac989f7a7c2cc6ebb4bbe3607e38a41d5e417c65378399a49/68747470733a2f2f67726164696f2e6170702f6173736574732f67726164696f2e737667" alt="icon" width="85" height="80"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/> </td>
-      <tr align="center"> 
-        <td align="center" width=110>NumPy</td>
-        <td align="center" width=110>Matplotlib</td>
-        <td align="center" width=110>HuggingFace</td>
-        <td align="center" width=110>Gradio</td>
-        <td align="center" width=110>Jupyter</td>
-      </tr>
-    </tr>
-  </table>  
-  <table>
-    <thead>
-      <tr>
-        <th colspan="6">Frameworks & Libraries </th>
-      </tr>
-    </thead>
-    <tr>
-      <td align="center" width=110> <img height=60 src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
-      <tr align="center"> 
-        <td align="center" width=110>React</td>
-        <td align="center" width=110>Node</td>
-        <td align="center" width=110>Spring</td>
-        <td align="center" width=110>Bootstrap</td>
-        <td align="center" width=110>JQuery</td>
-      </tr>
-    </tr>
-    <tr>
-      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg"/> </td>
-      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons//symfony/symfony-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> </td>
-      <tr align="center"> 
-        <td align="center" width=110>Flask</td>
-        <td align="center" width=110>Angular</td>
-        <td align="center" width=110>Laravel</td>
-        <td align="center" width=110>Symfony</td>
-        <td align="center" width=110>.Net</td>
-      </tr>
-    </tr>
-  </table>  
-  <table>
-    <thead>
-    <tr>
-      <th colspan="7">CI/CD & DevOps Toolchain</th>
-    </tr>
-    </thead>
-    <tr>
-      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain-wordmark.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/docker-icon.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original-wordmark.svg"/> </td>
-    </tr>
-    <tr> 
-      <td align="center" width=110>Prometheus</td>
-      <td align="center" width=110>Grafana</td>
-      <td align="center" width=110>Docker</td>
-      <td align="center" width=110>Jenkins</td>
-      <td align="center" width=110>SonarQube</td>
-    </tr>
-  </table>
-  <table>
-    <thead>
-      <tr>
-        <th colspan="7">Operating Systems</th>
-      </tr>
-    </thead>
-    <tr>
-      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
-    <tr> 
-      <td align="center" width=110>Debian</td>
-      <td align="center" width=110>Centos</td>
-      <td align="center" width=110>Ubuntu</td>
-      <td align="center" width=110>Script Shell</td>
-      <td align="center" width=110>Windows</td>
-    </tr>
-  </table>
-</div>
 
-<!--
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&column=7&theme=onedark"/>
+<!-- HEADER -->
+![ahlem](https://github.com/user-attachments/assets/5b08aec4-4fb4-463f-b5b6-c23bdb5d0031)
+
+<!-- SOCIAL BADGES -->
+<p>
+  <a href="https://ahlemlaajili.me"><img src="https://img.shields.io/badge/Portfolio-ahlemlaajili.me-667eea?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahlem-laajili/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@ahlemphantom"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://huggingface.co/ahlem-phantom"><img src="https://img.shields.io/badge/🤗_HuggingFace-Models-FFD21E?style=for-the-badge" /></a>
 </p>
-  -->
 
-<!--
-## 💬 Connect with me ...
-<p align="center">
-<a href = 'https://www.linkedin.com/in/ahlem-laajili'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://github.com/ahlem-phantom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  </p>
-  
-  https://img.shields.io/github/followers/Naereen.svg?style=for-the-badge&logo=appveyor
-  -->
+<img src="https://komarev.com/ghpvc/?username=ahlem-phantom&color=667eea&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/ahlem-phantom?style=flat-square&color=667eea&label=Followers" />
+<img src="https://img.shields.io/github/stars/ahlem-phantom?style=flat-square&color=667eea&label=Total+Stars" />
 
-## 📈 GitHub Analytics
- 
-
-
-  
-  <div align="center">
-    <img width="360" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
-<img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&theme=react&layout=compa" />
-  <a href="https://github.com/ahlem-phantom">  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
-  </a>
-                <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahlem-phantom&theme=react"/>
+### 🤖 AI/ML Engineer · Building production AI systems that ship to real users
 
 </div>
 
-      
-## 🏆 My GitHub Profile Trophies
-<a target="_blank" href="https://github.com/ahlem-phantom?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&theme=onestar&no-frame=true&column=6&row=1&margin-w=20&margin-h=20"  width="96%" alt="@Goblin's trophy stats"/></a>
+---
 
+<!-- IMPACT METRICS -->
+<div align="center">
 
-### Support me ❤️ by [starring](https://github.com/ahlem-phantom?tab=repositories) <img src="https://img.icons8.com/fluency/20/000000/star.png" /> some of my repositories ⬇️ !   
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/95.4%25-667eea?style=for-the-badge&logoColor=white" /><br/>
+<strong>AI Accuracy</strong><br/>
+<sub>Production Invoice System</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/130K+-667eea?style=for-the-badge&logoColor=white" /><br/>
+<strong>Users Impacted</strong><br/>
+<sub>FinTech Banking Platform</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/$40M+-667eea?style=for-the-badge&logoColor=white" /><br/>
+<strong>Company Interest</strong><br/>
+<sub>Healthcare AI Inquiry</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/50+-667eea?style=for-the-badge&logoColor=white" /><br/>
+<strong>Collaborations</strong><br/>
+<sub>Global Requests</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/PhD-667eea?style=for-the-badge&logoColor=white" /><br/>
+<strong>AI Research</strong><br/>
+<sub>SUP'COM University</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `whoami`
+
+```python
+#!/usr/bin/env python3
+"""
+Ahlem Laajili - AI/ML Engineer
+Building production AI that delivers measurable business impact.
+"""
+
+class AIEngineer:
+    def __init__(self):
+        self.name = "Ahlem Laajili"
+        self.title = "AI/ML Engineer | Python Developer | PhD Researcher"
+        self.location = "Tunisia 🇹🇳 → Remote Worldwide 🌍"
+        
+        self.education = {
+            "PhD": {"field": "Artificial Intelligence", "school": "SUP'COM", "status": "In Progress"},
+            "MSc": {"field": "Computer Science Engineering", "school": "ESPRIT", "rank": "Graduated with High Honors"},
+            "BSc": {"field": "Computer Science & Networking", "school": "ISTIC", "rank": "Top 3 🏆"},
+        }
+        
+        self.current_role = {
+            "company": "Flouci (FinTech)",
+            "role": "Python Software Engineer",
+            "impact": "110K+ users, 15+ production migrations, PCI-DSS compliant systems"
+        }
+        
+        self.achievements = [
+            "🎯 95.4% accuracy in production AI systems",
+            "💰 $40M+ healthcare company project inquiry",
+            "🌍 50+ international collaboration requests",
+            "🏆 ESPRIT Competition Finalist (9th Edition Bal des Projets)",
+            "📺 1.4K+ YouTube tutorial views",
+            "⭐ 400+ GitHub stars across projects",
+        ]
+        
+        self.specializations = ["Document AI", "Computer Vision", "NLP", "LLM Fine-tuning", "MLOps"]
+        
+    def philosophy(self):
+        return "I build AI that works in production, not just in notebooks."
+
+me = AIEngineer()
+print(me.philosophy())  # Let's build something extraordinary together.
+```
+
+---
+
+## 🌟 What Sets Me Apart
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Production AI Systems
+
+```
+┌─────────────────────────────────────┐
+│  Document AI    │ 95.4% Accuracy    │
+│  Computer Vision│ Real-time @ 30fps │
+│  NLP Pipelines  │ <100ms latency    │
+│  LLM Fine-tuning│ LoRA/QLoRA/GGUF   │
+│  MLOps          │ End-to-end deploy │
+└─────────────────────────────────────┘
+```
+
+- **LayoutLMv3** → Invoice field extraction
+- **YOLOv8** → Real-time object detection  
+- **Transformers** → Custom NER models
+- **LangChain** → RAG production systems
+
+</td>
+<td width="50%">
+
+### ⚡ Engineering at Scale
+
+```
+┌─────────────────────────────────────┐
+│  FinTech APIs   │ 110K+ users       │
+│  DB Migrations  │ 15+ production    │
+│  Async Systems  │ Redis + Celery    │
+│  CI/CD          │ Jenkins + Docker  │
+│  Compliance     │ PCI-DSS ready     │
+└─────────────────────────────────────┘
+```
+
+- **Django/FastAPI** → High-throughput APIs
+- **PostgreSQL** → Complex migrations at scale
+- **Redis** → Caching & message queuing
+- **Docker** → Containerized deployments
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📄 Invoice Smart Learning
+**95.4% Accuracy | Production System**
+
+<img src="https://img.shields.io/badge/LayoutLMv3-Production-667eea?style=flat-square" />
+<img src="https://img.shields.io/badge/CUDA-Optimized-76B900?style=flat-square" />
+
+</div>
+
+Continual learning system for document AI with hard example mining, active learning, and drift detection. **69.52% faster** with CUDA optimization.
+
+`LayoutLMv3` `PyTorch` `FastAPI` `Label Studio`
+
+<div align="center">
+
+[![HuggingFace](https://img.shields.io/badge/🤗_Models-FFD21E?style=for-the-badge)](https://huggingface.co/ahlem-phantom)
+[![Demo](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ieAIG3d7grA)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏥 AI Healthcare Assistant  
+**ESPRIT Finalist | 1.1K+ Views | 100+ ⭐**
+
+<img src="https://img.shields.io/badge/Competition-Finalist-FFD700?style=flat-square" />
+<img src="https://img.shields.io/badge/Stars-100+-667eea?style=flat-square" />
+
+</div>
+
+Healthcare platform with face recognition, lung disease classification (X-ray AI), blockchain medical records, and intelligent chatbots.
+
+`TensorFlow` `Computer Vision` `Blockchain` `React`
+
+<div align="center">
+
+[![Request](https://img.shields.io/badge/📧_Request_Code-667eea?style=for-the-badge)](mailto:ahlem.laajili@outlook.com?subject=AI%20Healthcare%20Assistant%20Code%20Request)
+[![Demo](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Kxqa83Us1m4)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🎯 LLM Fine-tuning Toolkit
+**LoRA → QLoRA → GGUF Pipeline**
+
+<img src="https://img.shields.io/badge/Llama_3-Supported-667eea?style=flat-square" />
+<img src="https://img.shields.io/badge/Mistral-Supported-667eea?style=flat-square" />
+
+</div>
+
+Complete fine-tuning pipeline from dataset prep to Ollama deployment. Supports Llama 3, Mistral, Gemma, Qwen, and any HuggingFace model.
+
+`PyTorch` `HuggingFace` `PEFT` `bitsandbytes`
+
+<div align="center">
+
+[![Request](https://img.shields.io/badge/📧_Request_Code-667eea?style=for-the-badge)](mailto:ahlem.laajili@outlook.com?subject=LLM%20Fine-tuning%20Toolkit%20Code%20Request)
+[![HuggingFace](https://img.shields.io/badge/🤗_Models-FFD21E?style=for-the-badge)](https://huggingface.co/ahlem-phantom)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🔍 RAG Production Template
+**Enterprise-Ready | Hybrid Search**
+
+<img src="https://img.shields.io/badge/RAGAS-Evaluated-667eea?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square" />
+
+</div>
+
+Beyond tutorials: semantic chunking, hybrid search (Vector + BM25 + Reranking), RAGAS evaluation, Redis caching, and Kubernetes configs.
+
+`LangChain` `FastAPI` `Qdrant` `Redis`
+
+<div align="center">
+
+[![Request](https://img.shields.io/badge/📧_Request_Code-667eea?style=for-the-badge)](mailto:ahlem.laajili@outlook.com?subject=RAG%20Production%20Template%20Code%20Request)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📦 Open Source Portfolio
+
+<details open>
+<summary><strong>🤖 AI/ML Projects</strong></summary>
+<br>
+
+| Project | Description | Tech Stack | Links |
+|:--------|:------------|:-----------|:------|
+| **Invoice Smart Learning** | 95.4% accuracy document extraction with continual learning | `LayoutLMv3` `CUDA` `FastAPI` | [![Request](https://img.shields.io/badge/📧_Request_Code-667eea?style=flat-square)](mailto:ahlem.laajili@outlook.com?subject=Invoice%20Smart%20Learning%20Code%20Request) |
+| **AI Healthcare Assistant** | Healthcare AI with face recognition & blockchain | `TensorFlow` `React` `Flask` | [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/ahlem-phantom/AI-HealthCare-Assistant) |
+| **LLM Fine-tuning Toolkit** | LoRA/QLoRA training → GGUF/Ollama export pipeline | `PyTorch` `PEFT` `HuggingFace` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+| **RAG Production Template** | Enterprise RAG with hybrid search & RAGAS evaluation | `LangChain` `FastAPI` `Qdrant` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+| **AI Agents Starter** | Production agent templates with tool calling & memory | `LangChain` `OpenAI` `Tools` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+| **ML Concepts Explained** | Interactive ML tutorials: entropy → transformers | `PyTorch` `NumPy` `Jupyter` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+
+</details>
+
+<details>
+<summary><strong>👁️ Computer Vision Projects</strong></summary>
+<br>
+
+| Project | Description | Tech Stack | Links |
+|:--------|:------------|:-----------|:------|
+| **YOLO Real-time Detection** | 80+ object classes with Gradio UI, webcam & video | `YOLOv8` `OpenCV` `Gradio` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+| **Face Emotion Detector** | 7 emotions with 95% accuracy, real-time | `DeepFace` `OpenCV` `Gradio` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+| **KYC Liveness Detection** | Anti-spoofing with face challenges: blink, turn, smile | `MediaPipe` `OpenCV` `Flask` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+| **Hand Gesture Recognition** | Real-time hand tracking for HCI applications | `MediaPipe` `TensorFlow` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+| **License Plate Reader** | ANPR system with OCR extraction | `OpenCV` `Tesseract` `EasyOCR` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+| **AI Background Remover** | Automatic background removal for images | `U2-Net` `OpenCV` `Gradio` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+
+</details>
+
+<details>
+<summary><strong>🛠️ Templates & Boilerplates</strong></summary>
+<br>
+
+| Project | Description | Tech Stack | Links |
+|:--------|:------------|:-----------|:------|
+| **FastAPI ML Template** | Production-ready ML API with Docker & tests | `FastAPI` `Docker` `Pytest` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+| **Django Production Boilerplate** | Scalable Django setup with best practices | `Django` `PostgreSQL` `Redis` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+| **Document AI Pipeline** | Modular document processing framework | `LayoutLM` `Tesseract` `FastAPI` | [![Request](https://img.shields.io/badge/📧_Request_Code-667eea?style=flat-square)](mailto:ahlem.laajili@outlook.com?subject=Document%20AI%20Pipeline%20Code%20Request) |
+| **RL CartPole Agent** | DQN with experience replay, complete RL tutorial | `PyTorch` `Gymnasium` | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-gray?style=flat-square) |
+
+</details>
+
+---
+
+## 🎬 Technical Content
+
+<div align="center">
+
+### 📺 YouTube — Production AI Tutorials
+
+*Join 1K+ engineers learning from actual implementations.*
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+[![Healthcare AI](https://img.youtube.com/vi/Kxqa83Us1m4/mqdefault.jpg)](https://www.youtube.com/watch?v=Kxqa83Us1m4)
+
+**Healthcare AI Platform**<br>
+Face recognition + Lung AI + Blockchain<br>
+`🎯 1.1K+ views` `⏱️ 3:00`
+
+[![Watch](https://img.shields.io/badge/▶_Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Kxqa83Us1m4)
+
+</td>
+<td align="center" width="33%">
+
+[![Invoice AI](https://img.youtube.com/vi/ieAIG3d7grA/mqdefault.jpg)](https://www.youtube.com/watch?v=ieAIG3d7grA)
+
+**95.4% Invoice Extraction**<br>
+LayoutLMv3 in production<br>
+`🎯 283 views` `⏱️ 4:53`
+
+[![Watch](https://img.shields.io/badge/▶_Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ieAIG3d7grA)
+
+</td>
+<td align="center" width="33%">
+
+[![More](https://img.youtube.com/vi/UCYBqGiklFI/mqdefault.jpg)](https://www.youtube.com/watch?v=UCYBqGiklFI)
+
+**Technical Tutorials**<br>
+Django, ML, DevOps<br>
+`🎯 Growing` `⏱️ Varies`
+
+[![Watch](https://img.shields.io/badge/▶_Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=UCYBqGiklFI)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://www.youtube.com/@ahlemphantom?sub_confirmation=1">
+  <img src="https://img.shields.io/badge/🔔_Subscribe_for_AI_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🐍 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<br/>
+
+### 🤖 AI / ML Frameworks
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📊 Data & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<br/>
+
+### ⚙️ Backend & Data
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+
+<br/>
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<br/>
+
+### 🚀 DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 💬 What People Say
+
+<div align="center">
+
+*Real feedback from clients, founders, and industry leaders across 10+ countries.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+> **"I came across your invoice processing demo and would be interested in discussing a potential project for a healthcare company with revenues of $40m each month..."**
+>
+> — **Mike Vezzoli**, Healthcare Company Executive 🏥
+
+</td>
+<td width="50%" valign="top">
+
+> **"She writes outstanding documentation (probably the best I've seen out of 100+ candidates). If you are hiring - please reach out to her."**
+>
+> — **Lyra Solar Hiring Manager** 🌍
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> **"Ahlem demonstrated outstanding competencies in AI, using advanced technologies such as NLP and deep learning. I highly recommend her for any Data Science role."**
+>
+> — **Dr. Sonia Mesbah**, ESPRIT 🎓
+
+</td>
+<td width="50%" valign="top">
+
+> **"I strongly recommend her to pursue doctoral work. Her multidisciplinary training, enthusiasm, and methodical character are tremendous assets."**
+>
+> — **Prof. Saber Dakhli**, CentraleSupélec Paris 🇫🇷
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Collaborate
+
+<div align="center">
+
+```
+╭────────────────────────────────────────────────────────────────────────╮
+│                                                                        │
+│   🤖 AI Integration      →  Document AI, Computer Vision, NLP, LLMs   │
+│   📺 Technical Content   →  Tutorials, workshops, documentation       │
+│   🔍 Code Review         →  ML systems, Python architecture           │
+│   💼 Consulting          →  Production ML system design               │
+│                                                                        │
+╰────────────────────────────────────────────────────────────────────────╯
+```
+
+<br>
+
+<a href="mailto:ahlem.laajili@outlook.com">
+  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ahlem-laajili/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://ahlemlaajili.me">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://huggingface.co/ahlem-phantom">
+  <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge" />
+</a>
+<a href="https://www.youtube.com/@ahlemphantom">
+  <img src="https://img.shields.io/badge/📺_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building AI systems that work in production, not just in notebooks.
+
+<sub>If you find my projects useful, consider ⭐ starring the repos!</sub>
+
+</div>
