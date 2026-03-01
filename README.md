@@ -97,7 +97,7 @@ class AIEngineer:
             "💰 $40M+ healthcare company project inquiry",
             "🌍 50+ international collaboration requests",
             "🏆 ESPRIT Competition Finalist (9th Edition Bal des Projets)",
-            "📺 1.4K+ YouTube tutorial views",
+            "📺 1.5K+ YouTube tutorial views",
             "⭐ 400+ GitHub stars across projects",
         ]
         
