@@ -207,7 +207,7 @@ Healthcare platform with face recognition, lung disease classification (X-ray AI
 
 <div align="center">
 
-[![Request](https://img.shields.io/badge/📧_Request_Code-667eea?style=for-the-badge)](mailto:ahlem.laajili@outlook.com?subject=AI%20Healthcare%20Assistant%20Code%20Request)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ahlem-phantom/AI-HealthCare-Assistant)
 [![Demo](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Kxqa83Us1m4)
 
 </div>
